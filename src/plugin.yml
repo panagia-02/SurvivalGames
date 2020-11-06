@@ -1,0 +1,17 @@
+main: me.stabolitis.sg.SurvivalGames
+name: SGSolo
+version: 1.0
+author: panks
+api-version: 1.16
+commands:
+  whereami:
+    aliases: [wai, where]
+    description: Shows the server you are currently playing.
+  gamestate:
+    aliases: [gs, game]
+    description: Modify the game state.
+  arena:
+    aliases: [setup, set]
+    description: Configure the arena spawnpoints.
+  dummyTeleportAll:
+    description: Test teleport event.

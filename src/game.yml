@@ -1,0 +1,5 @@
+# SERVER SETTINGS, CHANGE ONLY THE ID!
+server-id: m5A
+players-minimum-required: 2
+players-maximum: 12
+game-starting-countdown: 60

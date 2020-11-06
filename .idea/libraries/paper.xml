@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="paper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Desktop/MCW 1.16/paper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Desktop/MCW 1.16/paper.jar!/" />
+    </SOURCES>
+  </library>
+</component>

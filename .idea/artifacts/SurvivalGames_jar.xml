@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SurvivalGames:jar">
+    <output-path>$PROJECT_DIR$/../Desktop/MCW 1.16/plugins</output-path>
+    <root id="archive" name="SurvivalGames.jar">
+      <element id="module-output" name="SurvivalGames" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Desktop/MCW 1.16/paper.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
